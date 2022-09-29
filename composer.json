@@ -1,5 +1,5 @@
 {
-  "name": "mirasvit/module-profiler",
+  "name": "my/module-profiler",
   "description": "Magento 2 Profiler",
   "require": {
     "magento/framework": "100.*|101.*|102.*|103.*|104.*",
